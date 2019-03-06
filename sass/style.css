@@ -1,0 +1,54 @@
+header {
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0), red);
+  color: azure;
+}
+
+footer {
+  display: grid;
+  grid-area: f;
+}
+footer .logo {
+  resize: vertical;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  display: grid;
+}
+main header {
+  grid-column: 1/4;
+}
+
+.box-1 {
+  background: burlywood;
+  color: white;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.box-2 {
+  background: burlywood;
+  color: white;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.box-3 {
+  background: burlywood;
+  color: white;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.box-5 {
+  background: burlywood;
+  color: white;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */

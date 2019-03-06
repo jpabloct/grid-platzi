@@ -1,0 +1,38 @@
+@import "mixin";
+@import "header";
+@import "footer";
+@import "container";
+
+main{
+    display: grid;
+    header{
+        grid-column: 1/4;
+    }
+}
+
+
+.box-1{
+
+    
+}
+
+.box-2{
+
+}
+
+.box-3{
+   
+}
+
+.box-4{
+    ;
+
+}
+
+.box-5{
+    
+   
+
+}
+
+
